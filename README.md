@@ -85,3 +85,32 @@ Seccion para ejemplo de enlace interno
 
 ## MEncuiones a personas y equipos
 @github/ainhoafdez
+
+
+# Notas de pie 
+Enlazo una nota al pie [^1]
+
+[^1] Esta es la nota al pie
+[^nota] Esta es otra nota al pie
+
+---
+# Tablas
+
+| Columna 1 | Columna 2 | Columna 3 | 
+| :---      | :---:     | ---:      |
+| Dato 1    | Dato 2    | Dato 3    |
+| Dato 4    | Dato 5    | Dato 6    |
+
+<details>
+  <summary>Este es el resumen de la seccion desplegable</summary>
+  # holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+</details>
+
+<details>
+  <sumary>
+    ¿Cual es el comando python para imprimir por pantalla?
+  </sumary>
+  ```python
+  print('Texto')
+  ```
+</details>
