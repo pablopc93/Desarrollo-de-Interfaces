@@ -103,14 +103,26 @@ Enlazo una nota al pie [^1]
 
 <details>
   <summary>Este es el resumen de la seccion desplegable</summary>
-  # holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+    # Holaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 </details>
 
 <details>
   <sumary>
     ¿Cual es el comando python para imprimir por pantalla?
-  </sumary>
-  ```python
-  print('Texto')
-  ```
+  
+```python
+print('Texto')
+```
+</sumary>
 </details>
+
+
+# diagrama de flujo
+
+```mermaid
+graph TD;
+  A-->B;
+  A-->C;
+  B-->D;
+  C-->D;
+```
