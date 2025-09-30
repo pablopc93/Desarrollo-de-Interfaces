@@ -26,4 +26,18 @@ Me he basado en la pagina https://www.uifrommars.com/10-reglas-heuristicas-como-
 - Cumple: Facil de ver los municipios en vez de recordarlos
 - No Cumple: No hay barra de busqueda para busquedas rapidas
 
-- 
+## 7. Flexibilidad y eficiencia de uso
+- Cumple: En general visible todo
+- No Cumple: Menu de ayuda dificil de encontrar
+
+## 8. Estetica y diseño minimalista
+- Cumple: Colores no diferentes y limpio
+- No Cumple: Bloques con largos textos, mucha informacion comprimida.
+
+## 9. Ayuda al usuario a reconocer, diagnosticar y recuperarse de los errores
+- Cumple: Un menu de ayuda para el usuario
+- No Cumple: solo esta el menu de ayuda con no mucha ayuda y encima dificil acceder a el
+
+## 10. Ayuda y documentación
+- Cumple: Buena informacion detallada
+- No Cumple: Faltan hiperenlaces
