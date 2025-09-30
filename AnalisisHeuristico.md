@@ -1,5 +1,7 @@
 #Analisis Heurístico sobre Torguvi dentro del ayuntamiento de Toro.
 
+![Toro](https://www.toroayto.es/fotos/toro_infinita.jpg)
+
 Me he basado en la pagina https://www.uifrommars.com/10-reglas-heuristicas-como-aplicarlas para obtener la informacion de las reglas y asi hacer el analisis heuristico mejor.
 
 ## 1.Visibilidad del estado del sistema
